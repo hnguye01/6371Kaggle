@@ -8,6 +8,7 @@ Data and Description: https://www.kaggle.com/c/house-prices-advanced-regression-
 
 
 ## Github Kaggle Study Structure 
+Description of Work 
 ## Contributors 
 Please contact any of the members below: 
 - Huy Hoang Nguyen: hoangnguyen@smu.edu  
