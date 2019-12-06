@@ -13,4 +13,4 @@ Description of Work
 Please contact any of the members below: 
 - Huy Hoang Nguyen: hoangnguyen@smu.edu  
 - Ikenna Nwaogu: inwaogu@smu.edu  
-- Hao Wang:  wangmichael@smu.com 
+- Hao Wang:  wangmichael@smu.edu
